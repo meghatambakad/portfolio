@@ -1,0 +1,1 @@
+Just open index.html in your browser. To rename things, open files and edit the text. All images are local SVGs.
